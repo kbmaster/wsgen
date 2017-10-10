@@ -1,5 +1,5 @@
 # ws shit machine (prototype)
-Publish dumy php webservice from wsdl file.
+Publish dummy php webservice from wsdl file.
 
 # How it works ?
 

@@ -1,7 +1,7 @@
 # ws shit machine (prototype)
-*Publish dummy php webservice from wsdl file.
+Publish dummy php webservice from wsdl file.
 
-*Requires Zend Framework 1.12.5
+Requires Zend Framework 1.12.5
 
 # How it works ?
 

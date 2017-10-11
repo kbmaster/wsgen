@@ -1,0 +1,5 @@
+wsgen_web_root=/srv/www/htdocs
+wsgen_srv_name= myservice
+wsgen_srv_conf_dir = /etc
+wsgen_srv_log_dir= /var/log
+wsgen_srv_wsdl=wstataplus.wsdl
